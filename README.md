@@ -33,7 +33,8 @@
 
 <b>Chrome driver</b>: https://chromedriver.chromium.org/downloads <br>
 
-<b> 201911 </>b: https://github.com/encaion/NDS_201911 <br>
+<b> 201911 </b>: https://github.com/encaion/NDS_201911 <br>
+<b> FACE API </b>: https://azure.microsoft.com/ko-kr/services/cognitive-services/face/ <br>
 
 #### 책
 
